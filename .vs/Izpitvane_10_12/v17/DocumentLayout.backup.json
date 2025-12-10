@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\Stefan_Chobanski_11g\\Izpitvane_10_12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B413E6F8-B11C-48CC-B815-FE21D0FF116C}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\student\\desktop\\stefan_chobanski_11g\\izpitvane_10_12\\consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B413E6F8-B11C-48CC-B815-FE21D0FF116C}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C582730-A7F0-47AA-BE1C-7FDDF0D4911A}|TestProject1\\TestProject1.csproj|c:\\users\\student\\desktop\\stefan_chobanski_11g\\izpitvane_10_12\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C582730-A7F0-47AA-BE1C-7FDDF0D4911A}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B413E6F8-B11C-48CC-B815-FE21D0FF116C}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\student\\desktop\\stefan_chobanski_11g\\izpitvane_10_12\\consoleapp9\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B413E6F8-B11C-48CC-B815-FE21D0FF116C}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B413E6F8-B11C-48CC-B815-FE21D0FF116C}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\student\\desktop\\stefan_chobanski_11g\\izpitvane_10_12\\consoleapp9\\services\\iexerciseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B413E6F8-B11C-48CC-B815-FE21D0FF116C}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\services\\iexerciseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B413E6F8-B11C-48CC-B815-FE21D0FF116C}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\student\\desktop\\stefan_chobanski_11g\\izpitvane_10_12\\consoleapp9\\services\\exerciseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B413E6F8-B11C-48CC-B815-FE21D0FF116C}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\services\\exerciseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B413E6F8-B11C-48CC-B815-FE21D0FF116C}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\student\\desktop\\stefan_chobanski_11g\\izpitvane_10_12\\consoleapp9\\views\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B413E6F8-B11C-48CC-B815-FE21D0FF116C}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\views\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B413E6F8-B11C-48CC-B815-FE21D0FF116C}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\student\\desktop\\stefan_chobanski_11g\\izpitvane_10_12\\consoleapp9\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B413E6F8-B11C-48CC-B815-FE21D0FF116C}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Stefan_Chobanski_11g\\Izpitvane_10_12\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Stefan_Chobanski_11g\\Izpitvane_10_12\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:54:42.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleView.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Stefan_Chobanski_11g\\Izpitvane_10_12\\ConsoleApp9\\Views\\ConsoleView.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Views\\ConsoleView.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Stefan_Chobanski_11g\\Izpitvane_10_12\\ConsoleApp9\\Views\\ConsoleView.cs",
+              "RelativeToolTip": "ConsoleApp9\\Views\\ConsoleView.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:39:27.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Stefan_Chobanski_11g\\Izpitvane_10_12\\ConsoleApp9\\Controllers\\Controller.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Controllers\\Controller.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Stefan_Chobanski_11g\\Izpitvane_10_12\\ConsoleApp9\\Controllers\\Controller.cs",
+              "RelativeToolTip": "ConsoleApp9\\Controllers\\Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:36:26.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExerciseService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Stefan_Chobanski_11g\\Izpitvane_10_12\\ConsoleApp9\\Services\\ExerciseService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Services\\ExerciseService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Stefan_Chobanski_11g\\Izpitvane_10_12\\ConsoleApp9\\Services\\ExerciseService.cs",
+              "RelativeToolTip": "ConsoleApp9\\Services\\ExerciseService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:29:15.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IExerciseService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Stefan_Chobanski_11g\\Izpitvane_10_12\\ConsoleApp9\\Services\\IExerciseService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Services\\IExerciseService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Stefan_Chobanski_11g\\Izpitvane_10_12\\ConsoleApp9\\Services\\IExerciseService.cs",
+              "RelativeToolTip": "ConsoleApp9\\Services\\IExerciseService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:28:05.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Stefan_Chobanski_11g\\Izpitvane_10_12\\ConsoleApp9\\Models\\Exercise.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Models\\Exercise.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Stefan_Chobanski_11g\\Izpitvane_10_12\\ConsoleApp9\\Models\\Exercise.cs",
+              "RelativeToolTip": "ConsoleApp9\\Models\\Exercise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:26:34.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Stefan_Chobanski_11g\\Izpitvane_10_12\\ConsoleApp9\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Stefan_Chobanski_11g\\Izpitvane_10_12\\ConsoleApp9\\Program.cs",
+              "RelativeToolTip": "ConsoleApp9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:24:22.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
